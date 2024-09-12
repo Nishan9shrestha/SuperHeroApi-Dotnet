@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|c:\\users\\acer\\source\\repos\\superheroapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|c:\\users\\acer\\source\\repos\\superheroapi\\data\\superherodbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|solutionrelative:data\\superherodbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|c:\\users\\acer\\source\\repos\\superheroapi\\models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|solutionrelative:models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|c:\\users\\acer\\source\\repos\\superheroapi\\services\\superherorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|solutionrelative:services\\superherorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|c:\\users\\acer\\source\\repos\\superheroapi\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|solutionrelative:controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|c:\\users\\acer\\source\\repos\\superheroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0845EE96-FCC9-49A9-B38D-7A32024F1BCB}|SuperHeroAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-10T15:47:19.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuperHeroDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\Data\\SuperHeroDbContext .cs",
+              "RelativeDocumentMoniker": "Data\\SuperHeroDbContext .cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\Data\\SuperHeroDbContext .cs",
+              "RelativeToolTip": "Data\\SuperHeroDbContext .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:28:17.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuperheroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\Services\\SuperheroRepository.cs",
+              "RelativeDocumentMoniker": "Services\\SuperheroRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\Services\\SuperheroRepository.cs",
+              "RelativeToolTip": "Services\\SuperheroRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:11:40.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:04:04.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuperHeroController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\Controllers\\SuperHeroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuperHeroController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\Controllers\\SuperHeroController.cs",
+              "RelativeToolTip": "Controllers\\SuperHeroController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wCkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:40:54.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuperHero.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\Models\\SuperHero.cs",
+              "RelativeDocumentMoniker": "Models\\SuperHero.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SuperHeroAPI\\Models\\SuperHero.cs",
+              "RelativeToolTip": "Models\\SuperHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:39:13.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
